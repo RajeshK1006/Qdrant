@@ -26,4 +26,4 @@ To create a free custom tier in Qdrant, follow these steps:
 3. Select the "Custom" tier and proceed with the free plan.
 4. Once your custom tier is created, note down your API key and configure the environment variables accordingly.
 
-jupyternotebook is attached for references
+- jupyter notebook is attached for references
